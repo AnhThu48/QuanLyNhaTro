@@ -1,0 +1,11 @@
+D:\LTCSDL\QLNhaTro\QLNhaTro\QLNhaTro\bin\Debug\QLNhaTro.exe.config
+D:\LTCSDL\QLNhaTro\QLNhaTro\QLNhaTro\bin\Debug\QLNhaTro.exe
+D:\LTCSDL\QLNhaTro\QLNhaTro\QLNhaTro\bin\Debug\QLNhaTro.pdb
+D:\LTCSDL\QLNhaTro\QLNhaTro\QLNhaTro\obj\Debug\QLNhaTro.csprojAssemblyReference.cache
+D:\LTCSDL\QLNhaTro\QLNhaTro\QLNhaTro\obj\Debug\QLNhaTro.Properties.Resources.resources
+D:\LTCSDL\QLNhaTro\QLNhaTro\QLNhaTro\obj\Debug\QLNhaTro.csproj.GenerateResource.cache
+D:\LTCSDL\QLNhaTro\QLNhaTro\QLNhaTro\obj\Debug\QLNhaTro.csproj.CoreCompileInputs.cache
+D:\LTCSDL\QLNhaTro\QLNhaTro\QLNhaTro\obj\Debug\QLNhaTro.exe
+D:\LTCSDL\QLNhaTro\QLNhaTro\QLNhaTro\obj\Debug\QLNhaTro.pdb
+D:\LTCSDL\QLNhaTro\QLNhaTro\QLNhaTro\obj\Debug\QLNhaTro.FMain.resources
+D:\LTCSDL\QLNhaTro\QLNhaTro\QLNhaTro\obj\Debug\QLNhaTro.FCapNhatKH.resources
